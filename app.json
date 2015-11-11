@@ -30,6 +30,10 @@
     "REDIS_SECRET": {
       "description": "Redis secret.",
       "value": ""
+    },
+    "FORCE_SSL": {
+      "description": "Force ssl.",
+      "value": ""
     }
   }
 }

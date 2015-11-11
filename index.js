@@ -3,7 +3,9 @@
 const redis = require('redis'),
     co = require('co'),
     coRedis = require('co-redis'),
-    Koa = require('koa');
+    Koa = require('koa'),
+    enforceHttps = require('koa-sslify'),
+    convert = require('koa-convert');
 
 const app = exports.app = new Koa(),
     client  = redis.createClient(
@@ -19,6 +21,14 @@ if (process.env.REDIS_SECRET) {
 client.on('error', function (err) {
   console.log('Redis client error: ' + err);
 });
+
+// Force HTTPS on all page
+if (process.env.FORCE_SSL) {
+  console.log('Force ssl');
+  app.use(convert(enforceHttps({
+    trustProtoHeader: true
+  })));
+}
 
 app.use(co.wrap(function* (ctx) {
 
