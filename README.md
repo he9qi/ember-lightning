@@ -38,3 +38,7 @@ set if Redis is listening on a non-default port.
 
 The shared secret to use for authenticating to Redis. It is blank by default,
 which disables authentication.
+
+### `FORCE_SSL`
+
+The boolean for to force SSL or not.
