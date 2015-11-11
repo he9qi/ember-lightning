@@ -25,10 +25,10 @@ app.use(co.wrap(function* (ctx) {
   var indexkey;
 
   if (ctx.request.query.index_key) {
-    indexkey = process.env.APP_NAME +':'+ ctx.request.query.index_key;
+    indexkey = process.env.APP_NAME +':index:'+ ctx.request.query.index_key;
   } else {
-    indexkey = yield dbCo.get(process.env.APP_NAME +':current');
-    indexkey = process.env.APP_NAME + ':' + indexkey;
+    indexkey = yield dbCo.get(process.env.APP_NAME +':index:current');
+    indexkey = process.env.APP_NAME + ':index:' + indexkey;
   }
   var index = yield dbCo.get(indexkey);
 
