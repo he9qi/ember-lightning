@@ -31,7 +31,8 @@
     "koa": "^2.0.0-alpha.2",
     "koa-convert": "^1.1.0",
     "koa-sslify": "^1.0.1",
-    "redis": "^2.3.0"
+    "redis": "^2.3.0",
+    "jsdom": "*"
   },
   "engines": {
     "node": "4.2.x"
