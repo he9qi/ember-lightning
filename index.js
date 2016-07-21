@@ -1,52 +1,14 @@
-'use strict';
+const FastBootAppServer = require('fastboot-app-server');
+// const S3Downloader = require('fastboot-s3-downloader');
+//
+// const downloader = new S3Downloader({
+//   bucket: "smiley-home-fastboot",
+//   key: "fastboot-deploy-info.json"
+// });
 
-const redis = require('redis'),
-    co = require('co'),
-    coRedis = require('co-redis'),
-    Koa = require('koa'),
-    enforceHttps = require('koa-sslify'),
-    convert = require('koa-convert');
-
-const app = exports.app = new Koa(),
-    client  = redis.createClient(
-      process.env.REDIS_PORT,
-      process.env.REDIS_HOST
-    ),
-    dbCo = coRedis(client);
-
-if (process.env.REDIS_SECRET) {
-  client.auth(process.env.REDIS_SECRET);
-}
-
-client.on('error', function (err) {
-  console.log('Redis client error: ' + err);
+const server = new FastBootAppServer({
+  // downloader: downloader
+  distPath: "./dist"
 });
 
-// Force HTTPS on all page
-if (process.env.FORCE_SSL) {
-  console.log('Force ssl');
-  app.use(convert(enforceHttps({
-    trustProtoHeader: true
-  })));
-}
-
-app.use(co.wrap(function* (ctx) {
-
-  var indexkey;
-
-  if (ctx.request.query.index_key) {
-    indexkey = process.env.APP_NAME +':index:'+ ctx.request.query.index_key;
-  } else {
-    indexkey = yield dbCo.get(process.env.APP_NAME +':index:current');
-    indexkey = process.env.APP_NAME + ':index:' + indexkey;
-  }
-  var index = yield dbCo.get(indexkey);
-
-  if (index) {
-    ctx.body = index;
-  } else {
-    ctx.status = 404;
-  }
-}));
-
-app.listen(process.env.PORT || 3000);
+server.start();
