@@ -11,7 +11,7 @@
       "node-fetch"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-9bb972ee946ed60bb6f0d80f84478da1.js",
+      "appFile": "fastboot/netpromo-homepage-853ba31c938fac02337d21bd506ec8f3.js",
       "vendorFile": "fastboot/vendor-524080088c9578db9d854d144b283c3f.js",
       "htmlFile": "index.html"
     },
@@ -30,7 +30,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.0+cbc561bd",
+        "version": "0.0.1+c6f8a518",
         "autoboot": false
       },
       "netpromo-homepage": {
@@ -49,7 +49,6 @@
         "enabled": true
       },
       "something": "test",
-      "ASSETS_URL": "//smiley-homepage.s3-us-west-2.amazonaws.com/",
       "exportApplicationGlobal": false
     }
   }
