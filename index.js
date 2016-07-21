@@ -8,7 +8,7 @@ const FastBootAppServer = require('fastboot-app-server');
 
 const server = new FastBootAppServer({
   // downloader: downloader
-  distPath: "../netpromo-homepage/dist"
+  distPath: "./dist"
 });
 
 server.start();
