@@ -11,7 +11,7 @@
       "node-fetch"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-ed0f2aaff64da7fb2c5af649d12c9af8.js",
+      "appFile": "fastboot/netpromo-homepage-f5e98adf4179997bf9baf144a828357a.js",
       "vendorFile": "fastboot/vendor-524080088c9578db9d854d144b283c3f.js",
       "htmlFile": "index.html"
     },
@@ -30,7 +30,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+a01d486b",
+        "version": "0.0.1+8821416e",
         "autoboot": false
       },
       "netpromo-homepage": {
