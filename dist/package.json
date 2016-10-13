@@ -1,18 +1,16 @@
 {
   "dependencies": {
     "moment": "^2.8.0",
-    "moment-timezone": "^0.5.0",
-    "node-fetch": "^1.3.3"
+    "moment-timezone": "^0.5.0"
   },
   "fastboot": {
     "moduleWhitelist": [
       "moment",
-      "moment-timezone",
-      "node-fetch"
+      "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-f5e98adf4179997bf9baf144a828357a.js",
-      "vendorFile": "fastboot/vendor-524080088c9578db9d854d144b283c3f.js",
+      "appFile": "fastboot/netpromo-homepage-b2926909be25878222d2112a45cf916b.js",
+      "vendorFile": "fastboot/vendor-45726c5ab07d45ffdbf7a96dfd61b328.js",
       "htmlFile": "index.html"
     },
     "hostWhitelist": [
@@ -30,7 +28,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+8821416e",
+        "version": "0.0.1+f4ebeb38",
         "autoboot": false
       },
       "netpromo-homepage": {
