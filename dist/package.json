@@ -28,7 +28,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+f4ebeb38",
+        "version": "0.0.1+268f900f",
         "autoboot": false
       },
       "netpromo-homepage": {
