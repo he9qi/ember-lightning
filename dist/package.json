@@ -9,7 +9,7 @@
       "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-b2926909be25878222d2112a45cf916b.js",
+      "appFile": "fastboot/netpromo-homepage-ef5f2c63e5df733a954ae954e5dd36f1.js",
       "vendorFile": "fastboot/vendor-45726c5ab07d45ffdbf7a96dfd61b328.js",
       "htmlFile": "index.html"
     },
@@ -28,12 +28,12 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+b84d3386",
+        "version": "0.0.1+fc047a60",
         "autoboot": false
       },
       "netpromo-homepage": {
         "proxyHost": "http://netpromo-api.ngrok.io",
-        "blogHost": "https://s3.amazonaws.com/heyook-blog/smiley.json"
+        "blogHost": "https://s3.amazonaws.com/smileyapp/data/blogs.json"
       },
       "fastboot": {
         "hostWhitelist": [
