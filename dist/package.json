@@ -9,8 +9,8 @@
       "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-ef5f2c63e5df733a954ae954e5dd36f1.js",
-      "vendorFile": "fastboot/vendor-45726c5ab07d45ffdbf7a96dfd61b328.js",
+      "appFile": "fastboot/netpromo-homepage.js",
+      "vendorFile": "fastboot/vendor.js",
       "htmlFile": "index.html"
     },
     "hostWhitelist": [
@@ -20,7 +20,7 @@
     ],
     "appConfig": {
       "modulePrefix": "netpromo-homepage",
-      "environment": "production",
+      "environment": "development",
       "baseURL": "/",
       "locationType": "auto",
       "EmberENV": {
@@ -47,7 +47,7 @@
         "enabled": true
       },
       "something": "test",
-      "exportApplicationGlobal": false
+      "exportApplicationGlobal": true
     }
   }
 }
