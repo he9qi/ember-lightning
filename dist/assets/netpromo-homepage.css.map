@@ -2,8 +2,8 @@
 	"version": 3,
 	"file": "netpromo-homepage.css",
 	"sources": [
-		"../../sass_compiler-input_base_path-On6V3saW.tmp/0/app/styles/app.scss",
-		"../../sass_compiler-input_base_path-On6V3saW.tmp/0/app/styles/variables.scss",
+		"../../sass_compiler-input_base_path-dDHthKgZ.tmp/0/app/styles/app.scss",
+		"../../sass_compiler-input_base_path-dDHthKgZ.tmp/0/app/styles/variables.scss",
 		"../../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
 		"../../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
 		"../../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss",
@@ -74,10 +74,10 @@
 		"../../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss",
 		"../../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss",
 		"../../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss",
-		"../../sass_compiler-input_base_path-On6V3saW.tmp/0/app/styles/_global.scss",
-		"../../sass_compiler-input_base_path-On6V3saW.tmp/0/app/styles/_nav.scss",
-		"../../sass_compiler-input_base_path-On6V3saW.tmp/0/app/styles/_post.scss",
-		"../../sass_compiler-input_base_path-On6V3saW.tmp/0/app/styles/home.scss"
+		"../../sass_compiler-input_base_path-dDHthKgZ.tmp/0/app/styles/_global.scss",
+		"../../sass_compiler-input_base_path-dDHthKgZ.tmp/0/app/styles/_nav.scss",
+		"../../sass_compiler-input_base_path-dDHthKgZ.tmp/0/app/styles/_post.scss",
+		"../../sass_compiler-input_base_path-dDHthKgZ.tmp/0/app/styles/home.scss"
 	],
 	"sourcesContent": [
 		"@import \"variables\";\n@import \"bower_components/bootstrap-sass/assets/stylesheets/_bootstrap\";\n@import \"global\";\n@import \"nav\";\n@import \"post\";\n@import \"home\";\n\nbody {\n  margin: 0;\n  font-family: $base-fonts;\n}\n\n#habla_middle_wrapper_div, #habla_oplink_a {\n  font-family: $base-fonts;\n}\n\n.legal-page {\n  font-weight: 300;\n  max-width: 640px;\n}\n\n.legal-page__logo {\n  width: 100px;\n  padding: 5px;\n  height: 50px;\n  background: url(images/smiley-logo.svg) no-repeat;\n  background-size: contain;\n  margin: 20px auto;\n  text-align: center;\n  display: block;\n}\n\nfooter {\n  padding: 50px 0 0 0;\n  text-align: center;\n  color: $muteColor;\n  font-weight: 300;\n  .footer__heart {\n    color: pink;\n  }\n  a {\n    color: $muteColor;\n  }\n  p {\n    margin-bottom: 5px;\n  }\n}\n\n.footer__logo {\n  width: 32px;\n  padding: 5px;\n  height: 32px;\n  background: url(images/SmileyLogo.svg) no-repeat;\n  background-size: contain;\n  margin: 5px auto;\n  text-align: center;\n  display: block;\n}\n",

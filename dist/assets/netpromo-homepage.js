@@ -1355,8 +1355,8 @@ define("netpromo-homepage/index/template", ["exports"], function (exports) {
         dom.appendChild(el4, el5);
         var el5 = dom.createElement("span");
         dom.setAttribute(el5, "class", "action btn");
-        dom.setAttribute(el5, "href", "tel:8183979092");
-        var el6 = dom.createTextNode("Call (818) 397-9092");
+        dom.setAttribute(el5, "href", "tel:18886043769");
+        var el6 = dom.createTextNode("Call 888-60-HEROX");
         dom.appendChild(el5, el6);
         dom.appendChild(el4, el5);
         var el5 = dom.createTextNode("\n      ");
@@ -3225,7 +3225,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("netpromo-homepage/app")["default"].create({"name":"netpromo-homepage","version":"0.0.1+55bc0e3e"});
+  require("netpromo-homepage/app")["default"].create({"name":"netpromo-homepage","version":"0.0.1+9cf42bd2"});
 }
 
 define('~fastboot/app-factory', ['netpromo-homepage/app', 'netpromo-homepage/config/environment'], function(App, config) {
