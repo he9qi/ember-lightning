@@ -28,12 +28,12 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+fc047a60",
+        "version": "0.0.1+55bc0e3e",
         "autoboot": false
       },
       "netpromo-homepage": {
         "proxyHost": "http://netpromo-api.ngrok.io",
-        "blogHost": "https://s3.amazonaws.com/smileyapp/data/blogs.json"
+        "blogHost": "https://s3.amazonaws.com/heyook-blog/smiley.json"
       },
       "fastboot": {
         "hostWhitelist": [
