@@ -9,8 +9,8 @@
       "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage.js",
-      "vendorFile": "fastboot/vendor.js",
+      "appFile": "fastboot/netpromo-homepage-3b8f5b55f16f5e99033694dc2effb828.js",
+      "vendorFile": "fastboot/vendor-45726c5ab07d45ffdbf7a96dfd61b328.js",
       "htmlFile": "index.html"
     },
     "hostWhitelist": [
@@ -20,7 +20,7 @@
     ],
     "appConfig": {
       "modulePrefix": "netpromo-homepage",
-      "environment": "development",
+      "environment": "production",
       "baseURL": "/",
       "locationType": "auto",
       "EmberENV": {
@@ -28,7 +28,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+9cf42bd2",
+        "version": "0.0.1+02eb4584",
         "autoboot": false
       },
       "netpromo-homepage": {
@@ -43,11 +43,12 @@
         ]
       },
       "olarkSiteId": "3999-857-10-2852",
+      "hotjarId": "360761",
       "ember-cli-mirage": {
         "enabled": true
       },
       "something": "test",
-      "exportApplicationGlobal": true
+      "exportApplicationGlobal": false
     }
   }
 }
