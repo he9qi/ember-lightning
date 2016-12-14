@@ -44,6 +44,7 @@
       },
       "olarkSiteId": "3999-857-10-2852",
       "hotjarId": "360761",
+      "gaTrackingId": "UA-80204281-2",
       "ember-cli-mirage": {
         "enabled": true
       },
