@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="738px" height="738px" viewBox="0 0 738 738" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>SmileyLogoWhite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SmileyLogoWhite">
+            <path d="M369,0 C165.209,0 0,165.209 0,369 C0,572.791 165.209,738 369,738 C572.791,738 738,572.791 738,369 C738,165.209 572.791,0 369,0 Z M538.02,538.02 C444.674,631.36 293.326,631.36 199.98,538.02 C153.307,491.347 129.972,430.173 129.972,369 L608.029,369 C608.029,430.173 584.693,491.347 538.02,538.02 Z" id="Shape" fill="#F3F6F8"></path>
+            <path d="M643.976,306 L90,306 L90,555.984 C90,555.984 164.899,510.084 366.988,510.084 C569.076,510.084 643.976,555.984 643.976,555.984 L643.976,306" id="Shape" fill="#FFFFFF" opacity="0.15"></path>
+        </g>
+    </g>
+</svg>
