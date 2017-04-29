@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="347px" height="240px" viewBox="0 0 347 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>holiday</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="holiday">
+            <circle id="Oval" fill="#10C275" fill-rule="nonzero" cx="176" cy="128" r="96"></circle>
+            <path d="M272,16 C263.162,16 256,8.837 256,0 C256,8.837 248.836,16 240,16 C248.836,16 256,23.164 256,32 C256,23.164 263.162,16 272,16 Z" id="Shape" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M32,112 C23.162,112 16,104.837 16,96 C16,104.837 8.836,112 0,112 C8.836,112 16,119.164 16,128 C16,119.164 23.162,112 32,112 Z" id="Shape" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M288,56 C283.582,56 280,52.419 280,48 C280,52.419 276.418,56 272,56 C276.418,56 280,59.582 280,64 C280,59.582 283.582,56 288,56 Z" id="Shape" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M96,216 C82.744,216 72,205.254 72,192 C72,205.254 61.256,216 48,216 C61.256,216 72,226.746 72,240 C72,226.746 82.744,216 96,216 Z" id="Shape" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <circle id="Oval" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero" cx="328" cy="144" r="16"></circle>
+            <g id="Group" transform="translate(64.000000, 56.000000)" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M224,96 L120,96 C115.582,96 112,99.582 112,104 C112,108.418 115.582,112 120,112 L176,112 C180.418,112 184,115.582 184,120 C184,124.418 180.418,128 176,128 L152,128 C147.582,128 144,131.582 144,136 C144,140.418 147.582,144 152,144 L208,144" id="Shape"></path>
+                <path d="M0,96 L72.063,96 C76.481,96 80.063,99.582 80.063,104 C80.063,108.418 76.481,112 72.063,112 L64.063,112 C59.645,112 56.063,115.582 56.063,120 C56.063,124.418 59.645,128 64.063,128 L63.875,128 L88,128 C92.418,128 96,131.582 96,136 C96,140.418 92.418,144 88,144 L32,144" id="Shape"></path>
+                <path d="M148,64 L108,64 C103.582,64 100,60.419 100,56 C100,51.582 103.582,48 108,48 L116,48 C120.418,48 124,44.419 124,40 C124,35.582 120.418,32 116,32 L52,32 C47.582,32 44,35.582 44,40 C44,44.419 47.582,48 52,48 L84,48 C88.418,48 92,51.582 92,56 C92,60.419 88.418,64 84,64 L76,64 C71.582,64 68,67.582 68,72 C68,76.419 71.582,80 76,80 L148,80 C152.418,80 156,76.419 156,72 C156,67.582 152.418,64 148,64 Z" id="Shape"></path>
+                <path d="M224,32 L160,32 C155.582,32 152,35.582 152,40 C152,44.419 155.582,48 160,48 L224,48 C228.418,48 232,44.419 232,40 C232,35.582 228.418,32 224,32 Z" id="Shape"></path>
+                <path d="M136,0 L24,0 C19.582,0 16,3.582 16,8 C16,12.419 19.582,16 24,16 L136,16 C140.418,16 144,12.419 144,8 C144,3.582 140.418,0 136,0 Z" id="Shape"></path>
+            </g>
+            <circle id="Oval" stroke="#000000" stroke-width="5" cx="176" cy="128" r="96"></circle>
+            <circle id="Oval" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero" cx="80" cy="32" r="8"></circle>
+            <circle id="Oval" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero" cx="272" cy="224" r="8"></circle>
+        </g>
+    </g>
+</svg>

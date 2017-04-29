@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197px" height="185px" viewBox="0 0 197 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>feedback</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="feedback" transform="translate(2.000000, 2.000000)">
+            <polygon id="Shape" fill="#27A3DE" fill-rule="nonzero" points="32.5 0.5 32.5 96.5 96.5 96.5 96.5 128.5 128.5 96.5 192.5 96.5 192.5 0.5"></polygon>
+            <polygon id="Shape" fill="#27A3DE" fill-rule="nonzero" points="80.5 112.364 80.5 160.364 48.5 160.364 48.5 176.364 32.5 160.364 0.5 160.364 0.5 112.364"></polygon>
+            <polygon id="Shape" stroke="#000000" stroke-width="5" points="32.5 0.5 32.5 96.5 96.5 96.5 96.5 128.5 128.5 96.5 192.5 96.5 192.5 0.5"></polygon>
+            <polygon id="Shape" stroke="#000000" stroke-width="5" points="80.5 112.364 80.5 160.364 48.5 160.364 48.5 176.364 32.5 160.364 0.5 160.364 0.5 112.364"></polygon>
+            <path d="M64.5,32.5 L161,32.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M64.5,48.5 L128.5,48.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M96.5,64.5 L144.5,64.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M64.5,64.5 L80.5,64.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M16.5,128.5 L64.5,128.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M16.5,144.364 L48.5,144.364" id="Shape" stroke="#000000" stroke-width="5"></path>
+        </g>
+    </g>
+</svg>

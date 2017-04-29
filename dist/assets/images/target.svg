@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="322px" height="240px" viewBox="0 0 322 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>target</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="target">
+            <circle id="Oval" fill="#10C275" fill-rule="nonzero" cx="120" cy="120" r="120"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="120" cy="120" r="88"></circle>
+            <circle id="Oval" fill="#27A3DE" fill-rule="nonzero" cx="120" cy="120" r="56"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="120" cy="120" r="24"></circle>
+            <path d="M120,120 L296,120" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M319.5,96.5 L296,120" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M248,120 L271.5,96.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M319.5,143.5 L296,120" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M248,120 L271.5,143.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M264,120 L287.5,96.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M264,120 L287.5,143.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M280,120 L303.5,96.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M280,120 L303.5,143.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+        </g>
+    </g>
+</svg>

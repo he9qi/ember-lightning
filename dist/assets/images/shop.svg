@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="261px" height="210px" viewBox="0 0 261 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>shop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shop" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="77.301" width="256" height="128"></rect>
+            <path d="M0.5,0.5 L0.5,77.301 C0.5,84.369 6.23,90.101 13.301,90.101 C20.37,90.101 26.102,84.37 26.102,77.301 L26.102,0.5 L0.5,0.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M51.699,0.5 L51.699,77.301 C51.699,84.369 57.432,90.101 64.5,90.101 C71.569,90.101 77.301,84.37 77.301,77.301 L77.301,0.5 L51.699,0.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M102.901,0.5 L102.901,77.301 C102.901,84.369 108.63,90.101 115.699,90.101 C122.771,90.101 128.5,84.37 128.5,77.301 L128.5,0.5 L102.901,0.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M154.102,0.5 L154.102,77.301 C154.102,84.369 159.832,90.101 166.902,90.101 C173.969,90.101 179.7,84.37 179.7,77.301 L179.7,0.5 L154.102,0.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M205.301,0.5 L205.301,77.301 C205.301,84.369 211.031,90.101 218.102,90.101 C225.168,90.101 230.901,84.37 230.901,77.301 L230.901,0.5 L205.301,0.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M26.102,0.5 L26.102,77.301 C26.102,84.369 31.832,90.101 38.902,90.101 C45.969,90.101 51.7,84.37 51.7,77.301 L51.7,0.5 L26.102,0.5 Z" id="Shape" fill="#27A3DE" fill-rule="nonzero"></path>
+            <path d="M77.301,0.5 L77.301,77.301 C77.301,84.369 83.031,90.101 90.102,90.101 C97.168,90.101 102.902,84.37 102.902,77.301 L102.902,0.5 L77.301,0.5 Z" id="Shape" fill="#27A3DE" fill-rule="nonzero"></path>
+            <path d="M128.5,0.5 L128.5,77.301 C128.5,84.369 134.23,90.101 141.301,90.101 C148.37,90.101 154.102,84.37 154.102,77.301 L154.102,0.5 L128.5,0.5 Z" id="Shape" fill="#27A3DE" fill-rule="nonzero"></path>
+            <path d="M179.699,0.5 L179.699,77.301 C179.699,84.369 185.432,90.101 192.5,90.101 C199.569,90.101 205.301,84.37 205.301,77.301 L205.301,0.5 L179.699,0.5 Z" id="Shape" fill="#27A3DE" fill-rule="nonzero"></path>
+            <path d="M230.901,0.5 L230.901,77.301 C230.901,84.369 236.631,90.101 243.699,90.101 C250.771,90.101 256.5,84.37 256.5,77.301 L256.5,0.5 L230.901,0.5 Z" id="Shape" fill="#27A3DE" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" x="0.5" y="0.5" width="256" height="204.801"></rect>
+            <path d="M256.5,77.301 L0.5,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M26.102,77.301 C26.102,84.369 20.371,90.101 13.301,90.101 C6.231,90.101 0.5,84.37 0.5,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M51.699,77.301 C51.699,84.369 45.969,90.101 38.901,90.101 C31.832,90.101 26.101,84.37 26.101,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M77.301,77.301 C77.301,84.369 71.57,90.101 64.5,90.101 C57.433,90.101 51.699,84.37 51.699,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M102.901,77.301 C102.901,84.369 97.168,90.101 90.101,90.101 C83.031,90.101 77.3,84.37 77.3,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M128.5,77.301 C128.5,84.369 122.771,90.101 115.699,90.101 C108.631,90.101 102.901,84.37 102.901,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M154.102,77.301 C154.102,84.369 148.371,90.101 141.301,90.101 C134.231,90.101 128.5,84.37 128.5,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M179.699,77.301 C179.699,84.369 173.969,90.101 166.9,90.101 C159.831,90.101 154.099,84.37 154.099,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M205.301,77.301 C205.301,84.369 199.57,90.101 192.5,90.101 C185.43,90.101 179.699,84.37 179.699,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M230.901,77.301 C230.901,84.369 225.168,90.101 218.101,90.101 C211.03,90.101 205.3,84.37 205.3,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M256.502,77.301 C256.502,84.369 250.772,90.101 243.702,90.101 C236.632,90.101 230.901,84.37 230.901,77.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <g id="Group" transform="translate(26.000000, 0.000000)" stroke="#000000" stroke-width="5">
+                <path d="M204.901,77.301 L204.901,0.5" id="Shape"></path>
+                <path d="M179.301,77.301 L179.301,0.5" id="Shape"></path>
+                <path d="M153.699,77.301 L153.699,0.5" id="Shape"></path>
+                <path d="M128.102,77.301 L128.102,0.5" id="Shape"></path>
+                <path d="M102.5,77.301 L102.5,0.5" id="Shape"></path>
+                <path d="M76.901,77.301 L76.901,0.5" id="Shape"></path>
+                <path d="M51.301,77.301 L51.301,0.5" id="Shape"></path>
+                <path d="M25.699,77.301 L25.699,0.5" id="Shape"></path>
+                <path d="M0.102,77.301 L0.102,0.5" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" fill="#10C275" fill-rule="nonzero" x="26.102" y="102.9" width="140.8" height="51.2"></rect>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" fill="#10C275" fill-rule="nonzero" x="179.699" y="102.9" width="51.201" height="89.6"></rect>
+            <polyline id="Shape" stroke="#000000" stroke-width="5" points="166.901 154.101 166.901 166.9 26.102 166.9 26.102 154.101"></polyline>
+            <path d="M179.699,141.301 L230.9,141.301" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M179.699,154.101 L230.9,154.101" id="Shape" stroke="#000000" stroke-width="5"></path>
+        </g>
+    </g>
+</svg>

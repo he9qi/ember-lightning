@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="276px" height="182px" viewBox="0 0 276 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>referral</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="referral" transform="translate(3.000000, 3.000000)">
+            <g id="Group" fill-rule="nonzero">
+                <polygon id="Shape" fill="#27A3DE" points="96 40.272 96 68.185 96 96.098 176 121.02 176 15.35"></polygon>
+                <polygon id="Shape" fill="#FFFFFF" points="176 15.35 176 121.02 192 126.004 192 10.365"></polygon>
+                <polygon id="Shape" fill="#27A3DE" points="192 10.365 192 126.004 224 135.973 224 0.396"></polygon>
+                <polygon id="Shape" fill="#27A3DE" points="16 68.185 16 96.098 16 104.072 96 104.072 96 96.098 96 68.185"></polygon>
+                <polygon id="Shape" fill="#27A3DE" points="96 68.185 96 40.272 96 32.297 16 32.297 16 40.272 16 68.185"></polygon>
+                <polygon id="Shape" fill="#27A3DE" points="44 176.396 72 176.396 72 104.396 36 104.396"></polygon>
+                <polygon id="Shape" fill="#27A3DE" points="16 40.272 0 40.272 0 96.098 16 96.098 16 68.185"></polygon>
+            </g>
+            <g id="Group" stroke-width="5" stroke="#000000">
+                <g>
+                    <polyline id="Shape" points="96 96.098 224 135.973 224 0.396 96 40.272"></polyline>
+                    <rect id="Rectangle-path" x="16" y="32.297" width="80" height="71.775"></rect>
+                    <polyline id="Shape" points="72 104.396 72 176.396 44 176.396 36 104.396"></polyline>
+                    <path d="M16,68.185 L96,68.185" id="Shape"></path>
+                    <polyline id="Shape" points="16 40.272 0 40.272 0 96.098 16 96.098"></polyline>
+                    <path d="M192,10.365 L192,126.004" id="Shape"></path>
+                    <path d="M176,121.02 L176,15.35" id="Shape"></path>
+                </g>
+                <path d="M248,64.197 L272,64.197" id="Shape" stroke-linejoin="bevel"></path>
+                <path d="M248,40.272 L272,32.297" id="Shape" stroke-linejoin="bevel"></path>
+                <path d="M248,88.123 L272,96.098" id="Shape" stroke-linejoin="bevel"></path>
+            </g>
+        </g>
+    </g>
+</svg>

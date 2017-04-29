@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197px" height="293px" viewBox="0 0 197 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile-shop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile-shop" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="32.5" y="40.5" width="128" height="208"></rect>
+            <g id="Group" transform="translate(16.000000, 0.000000)" stroke="#000000" stroke-width="5">
+                <g id="Shape">
+                    <path d="M160.5,16.5 C160.5,7.7 153.3,0.5 144.5,0.5 L16.5,0.5 C7.7,0.5 0.5,7.7 0.5,16.5 L0.5,272.5 C0.5,281.3 7.7,288.5 16.5,288.5 L144.5,288.5 C153.3,288.5 160.5,281.3 160.5,272.5 L160.5,16.5 Z"></path>
+                    <polyline points="16.5 40.5 16.5 248.5 144.5 248.5 144.5 40.5"></polyline>
+                </g>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="80.5" cy="268.5" r="12"></circle>
+                <path d="M64.5,24.5 L96.5,24.5" id="Shape"></path>
+                <path d="M72.5,16.5 L88.5,16.5" id="Shape"></path>
+            </g>
+            <path d="M24.5,40.5 L0.5,88 L0.5,96 C0.5,104.836 7.663,112 16.5,112 C25.337,112 32.5,104.836 32.5,96 C32.5,104.836 39.663,112 48.5,112 C57.337,112 64.5,104.836 64.5,96 C64.5,104.836 71.663,112 80.5,112 C89.337,112 96.5,104.836 96.5,96 C96.5,104.836 103.663,112 112.5,112 C121.337,112 128.5,104.836 128.5,96 C128.5,104.836 135.663,112 144.5,112 C153.337,112 160.5,104.836 160.5,96 C160.5,104.836 167.663,112 176.5,112 C185.337,112 192.5,104.836 192.5,96 L192.5,88 L168.5,40.5 L24.5,40.5 Z" id="Shape" fill="#27A3DE" fill-rule="nonzero"></path>
+            <g id="Group" transform="translate(0.000000, 40.000000)" stroke="#000000" stroke-width="5">
+                <path d="M24.5,0.5 L0.5,48 L0.5,56 C0.5,64.836 7.663,72 16.5,72 C25.337,72 32.5,64.836 32.5,56 C32.5,64.836 39.663,72 48.5,72 C57.337,72 64.5,64.836 64.5,56 C64.5,64.836 71.663,72 80.5,72 C89.337,72 96.5,64.836 96.5,56 C96.5,64.836 103.663,72 112.5,72 C121.337,72 128.5,64.836 128.5,56 C128.5,64.836 135.663,72 144.5,72 C153.337,72 160.5,64.836 160.5,56 C160.5,64.836 167.663,72 176.5,72 C185.337,72 192.5,64.836 192.5,56 L192.5,48 L168.5,0.5 L24.5,0.5 Z" id="Shape"></path>
+                <path d="M0.5,48 L192.5,48" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

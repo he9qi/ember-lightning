@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197px" height="293px" viewBox="0 0 197 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>crm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crm" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#10C275" fill-rule="nonzero" x="0.5" y="40.5" width="192" height="208"></rect>
+            <circle id="Oval" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero" cx="96.635" cy="120.5" r="48"></circle>
+            <g id="Group" transform="translate(62.000000, 86.000000)" stroke="#000000" stroke-width="5">
+                <path d="M34.935,48.035 C38.623,48.035 41.987,46.111 44.536,42.949 C46.796,40.143 48.414,36.362 49.045,32.082 C49.14,32.094 49.236,32.1 49.335,32.1 C50.661,32.1 51.735,31.026 51.735,29.701 L51.735,24.901 L51.735,24.8 L51.732,24.8 C51.68,23.521 50.628,22.5 49.335,22.5 L49.335,20.1 C49.335,18.775 48.261,17.701 46.937,17.701 L45.354,17.701 L45.354,17.701 L45.354,17.701 C43.678,17.701 42.204,16.842 41.344,15.54 C40.486,16.842 39.011,17.701 37.335,17.701 L22.935,17.701 C21.61,17.701 20.536,18.775 20.536,20.1 L20.536,22.5 C19.244,22.5 18.19,23.521 18.138,24.8 L18.136,24.8 L18.136,29.7 C18.136,31.025 19.21,32.099 20.536,32.099 C20.634,32.099 20.731,32.093 20.827,32.081 C21.457,36.361 23.075,40.143 25.336,42.948 C27.883,46.111 31.246,48.035 34.935,48.035 Z" id="Shape"></path>
+                <path d="M20.535,22.5 L20.535,20.1 C20.535,18.775 21.609,17.701 22.934,17.701 L37.333,17.701 C39.009,17.701 40.483,16.842 41.342,15.54 C42.201,16.842 43.676,17.701 45.352,17.701 L45.352,17.701 L45.352,17.701 L46.935,17.701 C48.259,17.701 49.333,18.775 49.333,20.1 L49.333,22.5 C50.626,22.5 51.679,23.521 51.73,24.8 L51.733,24.8 L51.733,15.375 L51.733,15.3 L51.733,15.3 C51.685,7.34 44.182,0.901 34.933,0.901 C25.684,0.901 18.183,7.34 18.136,15.3 L18.135,15.3 L18.135,15.375 L18.135,24.8 L18.137,24.8 C18.189,23.521 19.243,22.5 20.535,22.5 Z" id="Shape"></path>
+                <path d="M69.482,67.49 L66.923,58.41 C66.566,57.139 65.292,55.649 64.092,55.099 L44.558,46.53 C44.55,46.527 44.542,46.524 44.535,46.521 C44.51,46.511 44.484,46.503 44.459,46.5 C43.861,51.229 39.824,54.887 34.935,54.887 C30.044,54.887 26.008,51.229 25.411,46.5 C25.386,46.504 25.36,46.512 25.336,46.521 C25.327,46.524 25.318,46.527 25.311,46.53 L5.776,55.1 C4.577,55.65 3.302,57.14 2.944,58.411 L0.25,67.976" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="192" height="40"></rect>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" x="0.5" y="40.5" width="192" height="208"></rect>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="248.5" width="192" height="40"></rect>
+            <rect id="Rectangle-path" stroke="#000000" stroke-width="5" x="80.635" y="216.5" width="32" height="16"></rect>
+            <path d="M64.635,184.5 L128.635,184.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <path d="M80.635,192.5 L112.635,192.5" id="Shape" stroke="#000000" stroke-width="5"></path>
+            <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" x="84.635" y="264.5" width="24" height="8"></rect>
+            <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" x="84.635" y="16.5" width="24" height="8"></rect>
+        </g>
+    </g>
+</svg>
