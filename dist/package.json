@@ -9,7 +9,7 @@
       "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-101edab7d8c5683b0d1edd664e550b94.js",
+      "appFile": "fastboot/netpromo-homepage-92925d62a5f90cf68c4304ad754c8199.js",
       "vendorFile": "fastboot/vendor-a07168de649aab67ade1c01b9b01af00.js",
       "htmlFile": "index.html"
     },
@@ -48,6 +48,7 @@
       "olarkSiteId": "3999-857-10-2852",
       "hotjarId": "360761",
       "gaTrackingId": "UA-80204281-2",
+      "userengageKey": "Jj7IysBIXKq9ZVMHApPk3JVAYwQ1vcTeGN2fSfduJCLxFwfEOZP4WSG3WNvenSdz",
       "ember-cli-mirage": {
         "enabled": true
       },
