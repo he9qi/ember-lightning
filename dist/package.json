@@ -9,7 +9,7 @@
       "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-92925d62a5f90cf68c4304ad754c8199.js",
+      "appFile": "fastboot/netpromo-homepage-7118cd68788d6bde8bf214d959067acd.js",
       "vendorFile": "fastboot/vendor-a07168de649aab67ade1c01b9b01af00.js",
       "htmlFile": "index.html"
     },
@@ -28,7 +28,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+c4b00160",
+        "version": "0.0.1+8db9915c",
         "autoboot": false
       },
       "netpromo-homepage": {
@@ -49,6 +49,7 @@
       "hotjarId": "360761",
       "gaTrackingId": "UA-80204281-2",
       "userengageKey": "Jj7IysBIXKq9ZVMHApPk3JVAYwQ1vcTeGN2fSfduJCLxFwfEOZP4WSG3WNvenSdz",
+      "intercomId": "mvxbhj5t",
       "ember-cli-mirage": {
         "enabled": true
       },
