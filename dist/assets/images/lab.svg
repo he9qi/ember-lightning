@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="304px" height="302px" viewBox="0 0 304 302" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>lab</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lab" transform="translate(0.000000, 1.000000)">
+            <g id="Group" transform="translate(0.000000, 18.000000)">
+                <g id="Shape">
+                    <path d="M304,135.916 L0,135.916" stroke="#BCEBDD" stroke-width="5"></path>
+                    <g transform="translate(68.000000, 7.000000)" stroke="#BCEBDD" stroke-width="5">
+                        <path d="M0.223,256.916 L168.049,0.916"></path>
+                        <path d="M0.223,0.916 L168.049,256.916"></path>
+                    </g>
+                    <polygon fill="#FFFFFF" fill-rule="nonzero" points="32.135 68.416 152.135 0.916 272.135 68.416 272.135 203.416 152.135 270.916 32.135 203.416"></polygon>
+                    <polygon fill="#007FFF" fill-rule="nonzero" points="48.135 77.416 152.135 18.916 256.135 77.416 256.135 194.416 152.135 252.916 48.135 194.416"></polygon>
+                </g>
+                <g transform="translate(104.000000, 71.000000)" stroke="#FFFFFF" stroke-width="5">
+                    <path d="M16.135,16.916 L16.135,176.916 C16.135,194.588 30.463,208.916 48.135,208.916 C65.809,208.916 80.135,194.588 80.135,176.916 L80.135,16.916 L16.135,16.916 Z" id="Shape" fill="#BCEBDD" fill-rule="nonzero"></path>
+                    <path d="M16.135,16.916 L16.135,176.916 C16.135,194.588 30.463,208.916 48.135,208.916 C65.809,208.916 80.135,194.588 80.135,176.916 L80.135,16.916 L16.135,16.916 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0.135" y="0.916" width="96" height="16"></rect>
+                    <g transform="translate(16.000000, 32.000000)" id="Shape">
+                        <path d="M16.135,128.916 L0.135,128.916"></path>
+                        <path d="M16.135,112.916 L0.135,112.916"></path>
+                        <path d="M16.135,96.916 L0.135,96.916"></path>
+                        <path d="M16.135,80.916 L0.135,80.916"></path>
+                        <path d="M16.135,64.916 L0.135,64.916"></path>
+                        <path d="M16.135,48.916 L0.135,48.916"></path>
+                        <path d="M16.135,32.916 L0.135,32.916"></path>
+                        <path d="M16.135,16.916 L0.135,16.916"></path>
+                        <path d="M16.135,0.916 L0.135,0.916"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(110.000000, 0.000000)">
+                <g transform="translate(0.000000, 16.000000)">
+                    <path d="M0.744,21.061 L20.816,0.988" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+                    <path d="M0.744,0.973 L20.824,21.053" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.778984, 11.014408) rotate(-45.000000) translate(-10.778984, -11.014408) " x="5.75603202" y="5.99095603" width="10.0459037" height="10.0469036"></rect>
+                </g>
+                <g transform="translate(63.000000, 0.000000)">
+                    <path d="M0.896,27.018 L27.125,0.787" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+                    <path d="M0.896,0.768 L27.135,27.008" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" transform="translate(14.010090, 13.889220) rotate(-45.000000) translate(-14.010090, -13.889220) " x="7.44615295" y="7.32528255" width="13.1278741" height="13.1278741"></rect>
+                </g>
+                <g transform="translate(47.000000, 50.000000)">
+                    <path d="M0.16,10.27 L10.193,0.236" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+                    <path d="M0.16,0.229 L10.197,10.266" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" transform="translate(5.176425, 5.248497) rotate(-45.000000) translate(-5.176425, -5.248497) " x="2.66544868" y="2.73752108" width="5.02195184" height="5.02195184"></rect>
+                </g>
+                <circle id="Oval" stroke="#BCEBDD" stroke-width="5" cx="33.792" cy="67.371" r="3.692"></circle>
+                <circle id="Oval" stroke="#BCEBDD" stroke-width="5" cx="43.827" cy="33.244" r="5.019"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

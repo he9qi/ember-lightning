@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="241px" viewBox="0 0 225 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>nps</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nps" fill-rule="nonzero">
+            <polygon id="Shape" fill="#007FFF" points="64.5 112.5 64.5 208.5 160.5 208.5 192.5 240.5 192.5 208.5 224.5 208.5 224.5 112.5"></polygon>
+            <rect id="Rectangle-path" fill="#FFFFFF" x="80.5" y="128.5" width="128" height="64"></rect>
+            <polygon id="Shape" fill="#BCEBDD" points="160.5 0.5 160.5 96.5 64.5 96.5 32.5 128.5 32.5 96.5 0.5 96.5 0.5 0.5"></polygon>
+            <rect id="Rectangle-path" fill="#FFFFFF" x="16.5" y="16.5" width="128" height="64"></rect>
+            <g id="SmileyLogo" transform="translate(121.000000, 137.000000)">
+                <path d="M24,0 C10.7453008,0 0,10.7453008 0,24 C0,37.2546992 10.7453008,48 24,48 C37.2546992,48 48,37.2546992 48,24 C48,10.7453008 37.2546992,0 24,0 Z M34.9931707,34.9931707 C28.9218862,41.064065 19.0781138,41.064065 13.0068293,34.9931707 C9.97118699,31.9575285 8.45346341,27.9787317 8.45346341,24 L39.5466016,24 C39.5466016,27.9787317 38.028813,31.9575285 34.9931707,34.9931707 Z" id="Shape" fill="#27A3DE"></path>
+                <path d="M34.9931707,34.9931707 C28.9218862,41.064065 19.0781138,41.064065 13.0068293,34.9931707 C9.97118699,31.9575285 8.45346341,27.9787317 8.45346341,24 L39.5466016,24 C39.5466016,27.9787317 38.028813,31.9575285 34.9931707,34.9931707 Z" id="Path" fill-opacity="0.15" fill="#27A3DE"></path>
+                <path d="M12.2268699,34.1524247 C9.71243063,31.242265 8.45528455,27.6211056 8.45528455,24 L39.5484228,24 C39.5484228,27.6395497 38.2783831,31.2791538 35.7382539,34.196838 C32.9216678,33.6371703 29.0340796,33.1761951 23.8691382,33.1761951 C18.8414605,33.1761951 15.0241513,33.6129898 12.2268699,34.1524247 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

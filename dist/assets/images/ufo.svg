@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="321px" height="161px" viewBox="0 0 321 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>ufo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ufo">
+            <path d="M106.164,85.028 L106.164,53.834 C106.164,24.379 130.045,0.5 159.498,0.5 C188.954,0.5 212.831,24.379 212.831,53.834 L212.831,85.028" id="Shape" fill="#BCEBDD" fill-rule="nonzero"></path>
+            <path d="M160.539,160.5 C228.909,160.5 288.6,139.049 320.539,107.166 C288.6,75.285 228.908,53.834 160.539,53.834 C92.17,53.834 32.478,75.285 0.539,107.166 C32.478,139.049 92.169,160.5 160.539,160.5 Z" id="Shape" fill="#007FFF" fill-rule="nonzero"></path>
+            <path d="M320.539,107.166 L0.539,107.166" id="Shape"></path>
+            <circle id="Oval" fill="#F3F6F8" fill-rule="nonzero" cx="53.976" cy="107.166" r="13.334"></circle>
+            <circle id="Oval" fill="#F3F6F8" fill-rule="nonzero" cx="107.257" cy="107.166" r="13.334"></circle>
+            <circle id="Oval" fill="#F3F6F8" fill-rule="nonzero" cx="160.538" cy="107.166" r="13.333"></circle>
+            <circle id="Oval" fill="#F3F6F8" fill-rule="nonzero" cx="213.819" cy="107.166" r="13.333"></circle>
+            <circle id="Oval" fill="#F3F6F8" fill-rule="nonzero" cx="267.101" cy="107.166" r="13.333"></circle>
+        </g>
+    </g>
+</svg>

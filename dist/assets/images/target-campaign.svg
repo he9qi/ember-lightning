@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="307px" height="257px" viewBox="0 0 307 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>target-campaign</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="target-campaign">
+            <polygon id="Shape" fill="#BCEBDD" fill-rule="nonzero" points="111.936 112.808 154.943 256.192 169.282 256.192 140.605 112.808"></polygon>
+            <polygon id="Shape" fill="#BCEBDD" fill-rule="nonzero" points="113.066 112.808 70.058 256.192 55.72 256.192 84.396 112.808"></polygon>
+            <circle id="Oval" fill="#007FFF" fill-rule="nonzero" cx="112.5" cy="112.5" r="112"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="112.501" cy="112.5" r="80"></circle>
+            <circle id="Oval" fill="#007FFF" fill-rule="nonzero" cx="112.501" cy="112.5" r="48"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="112.501" cy="112.5" r="16"></circle>
+            <path d="M112.501,112.5 L304.366,112.5" id="Shape" stroke="#BCEBDD" stroke-width="5"></path>
+            <path d="M74.765,240.5 L150.237,240.5" id="Shape"></path>
+            <g id="Group" transform="translate(256.000000, 96.000000)" stroke="#BCEBDD" stroke-width="5">
+                <path d="M32.366,16.5 L48.366,0.5" id="Shape"></path>
+                <path d="M16.366,16.5 L32.366,0.5" id="Shape"></path>
+                <path d="M0.366,16.5 L16.366,0.5" id="Shape"></path>
+            </g>
+            <g id="Group" transform="translate(256.000000, 112.000000)" stroke="#BCEBDD" stroke-width="5">
+                <path d="M32.366,0.5 L48.366,16.5" id="Shape"></path>
+                <path d="M16.366,0.5 L32.366,16.5" id="Shape"></path>
+                <path d="M0.366,0.5 L16.366,16.5" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

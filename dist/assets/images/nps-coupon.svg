@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="272px" viewBox="0 0 241 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>nps-coupon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nps-coupon" fill-rule="nonzero">
+            <polygon id="Shape" fill="#FFFFFF" points="0.136 67.5 120.136 0 240.136 67.5 240.136 202.501 120.136 270 0.136 202.501"></polygon>
+            <polygon id="Shape" fill="#007FFF" points="16.136 76.5 120.136 18 224.136 76.5 224.136 193.501 120.136 252 16.136 193.501"></polygon>
+            <g id="Group" transform="translate(60.000000, 75.000000)">
+                <rect id="Rectangle-path" fill="#BCEBDD" x="44.136" y="180.125" width="32" height="16"></rect>
+                <rect id="Rectangle-path" fill="#007FFF" x="36.136" y="140.125" width="48" height="48"></rect>
+                <path d="M120.136,60 C120.136,26.863 93.274,0 60.136,0 C26.999,0 0.136,26.863 0.136,60 C0.136,77.772 7.869,93.733 20.148,104.721 L20.136,104.721 C30.657,117.421 36.136,125.38 36.136,140.125 L84.136,140.125 C84.136,125.38 89.615,117.421 100.136,104.721 L100.124,104.721 C112.402,93.733 120.136,77.772 120.136,60 Z" id="Shape" fill="#BCEBDD"></path>
+                <g transform="translate(40.000000, 31.000000)" id="Shape" fill="#FFFFFF">
+                    <path d="M40.136,35 C40.136,20.064 32.096,7.025 20.136,0 C8.177,7.025 0.136,20.064 0.136,35 C0.136,49.936 8.177,62.975 20.136,70 C32.096,62.975 40.136,49.936 40.136,35 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
