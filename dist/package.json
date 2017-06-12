@@ -9,7 +9,7 @@
       "moment-timezone"
     ],
     "manifest": {
-      "appFile": "fastboot/netpromo-homepage-e13ee73848802b88931d5f56f5072581.js",
+      "appFile": "fastboot/netpromo-homepage-35b67e21212d4a99ee903f665e3089ca.js",
       "vendorFile": "fastboot/vendor-a07168de649aab67ade1c01b9b01af00.js",
       "htmlFile": "index.html"
     },
@@ -28,7 +28,7 @@
       },
       "APP": {
         "name": "netpromo-homepage",
-        "version": "0.0.1+5776c4e0",
+        "version": "0.0.1+3aa7390d",
         "autoboot": false
       },
       "netpromo-homepage": {
